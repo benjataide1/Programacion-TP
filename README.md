@@ -2,38 +2,56 @@
 
 ## 🔍 Tema
 
-**Análisis de algoritmos en Python aplicado a un caso práctico:**  
-Encontrar el producto más vendido a partir de una lista de ventas. Se comparan dos soluciones: una versión ineficiente con complejidad O(n²) y otra optimizada con complejidad O(n).
+**Análisis de Algoritmos en Python aplicado a un caso práctico.**  
+Este proyecto compara dos algoritmos para resolver un problema común en sistemas de ventas: determinar el producto más vendido dentro de una lista. Uno de los algoritmos es básico y tiene una complejidad cuadrática, mientras que el otro está optimizado con complejidad lineal.
 
 ---
 
 ## 📁 Contenido del repositorio
 
-- `producto_mas_vendido.py`: Código fuente con ambos algoritmos implementados.
-- `grafico_comparacion.png`: Gráfico de comparación de rendimiento.
-- `README.md`: Descripción general del proyecto.
+- `producto_mas_vendido.py`: implementación de ambos algoritmos.
+- `imagenes`: carpeta con imagenes tomadas.
+- `README.md`: este archivo.
+
+---
+
+## 🎯 Objetivo
+
+Explorar cómo la elección de algoritmos impacta el rendimiento de una aplicación. A través de la comparación entre dos enfoques, buscamos comprender la importancia de la eficiencia tanto desde un análisis teórico (notación Big-O) como desde la experimentación con tiempos reales.
+
+---
+
+## 🧠 Conceptos aplicados
+
+- **Análisis teórico de algoritmos**: notación Big-O.
+- **Análisis empírico**: medición de tiempos con `time.time()`.
+- **Eficiencia temporal y espacial**.
+- **Optimización de código en Python**.
+- **Visualización de datos con `matplotlib`**.
 
 ---
 
 ## 🛠 Herramientas utilizadas
 
-- **Python 3**
-- Librerías:
-  - `random`
+- **Lenguaje:** Python 3.x  
+- **Librerías:**
   - `time`
+  - `random`
   - `matplotlib.pyplot`
 
 ---
 
 ## 🎥 Video explicativo (obligatorio)
 
-[🔗 Ver video en YouTube](https://www.youtube.com/tu-video-link-aqui)  
-Duración: entre 10 y 15 minutos. Incluye presentación, explicación de código, análisis empírico y conclusiones.
+📎 [Ver video en YouTube](https://www.youtube.com/tu-enlace-aqui)  
+*(Duración entre 10 y 15 minutos. Incluye presentación, explicación del código, resultados, metodología y reflexión final.)*
 
 ---
 
-## 📌 Cómo ejecutar
+## 🧪 Cómo ejecutar
 
-1. Clonar el repositorio:
 ```bash
 git clone https://github.com/usuario/tu-repo.git
+cd tu-repo
+python producto_mas_vendido.py
+
