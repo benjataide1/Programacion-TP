@@ -41,9 +41,9 @@ Explorar cómo la elección de algoritmos impacta el rendimiento de una aplicaci
 
 ---
 
-## 🎥 Video explicativo (obligatorio)
+## 🎥 Video explicativo 
 
-📎 [Ver video en YouTube](https://www.youtube.com/tu-enlace-aqui)  
+📎 [Ver video en YouTube](https://youtu.be/hcY4xpUqYr0)  
 *(Duración entre 10 y 15 minutos. Incluye presentación, explicación del código, resultados, metodología y reflexión final.)*
 
 ---
