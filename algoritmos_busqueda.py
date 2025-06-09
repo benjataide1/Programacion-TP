@@ -118,3 +118,4 @@ plt.grid(True)
 plt.tight_layout()
 plt.savefig("comparacion_algoritmos.png")  # Guarda la imagen
 plt.show()
+
